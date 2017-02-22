@@ -4,5 +4,7 @@ Way cooler site but using better seed, scrape existing stuff from old project an
 setup with the following commands...
 
 npm install
+
 bower install
+
 gulp serve
